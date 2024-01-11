@@ -1,9 +1,22 @@
-# Diabetes-Predictor
-Objective - Predict Diabetes using Machine Learning.
 
-Prediction of whether the patient has diabetes or not based on various features like Age, Glucose level, BMI , Insulin.  
-For the project , data was gathered as well as the model was properly deployed. 
-Comparison of various machine learning algorithms on the basis of accuracy_score metric and selection of the best one.
-Creation of a web app using Flask.
+## Diabetes Predictor
+> Predict Diabetes using Machine Learning.
 
-More info avalaible on my portfolio website.
+In this project, our objective is to predict whether the patient has diabetes or not based on various features like *Glucose level, Insulin, Age, BMI*. We will perform all the steps from *Data gathering to Model deployment.* During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Flask which is a python micro framework.
+
+
+> Read more about it on my portfolio and blog website.
+
+# Installation
+
+- Clone this repository and unzip it.
+
+- After downloading, `cd` into the `flask` directory.
+
+- Begin a new virtual environment with Python 3 and activate it.
+
+- Install the required packages using 
+   `pip install -r requirements.txt`
+
+- Execute the command:
+   `python app.py`
