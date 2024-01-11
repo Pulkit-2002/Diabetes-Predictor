@@ -5,7 +5,7 @@
 1.Predict whether the patient has diabetes or not based on various features like Glucose level, Insulin, Age, BMI.
 2.Data gathering
 3.Model deployment.
-4.Comparison of various machine learning algorithms on the basis of accuracy_score metric and picking the best one.
+4.Comparison of various machine learning algorithms and picking the best one.
 5.Creation of a web app using Flask
 
 
